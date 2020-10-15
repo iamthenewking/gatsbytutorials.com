@@ -10,17 +10,13 @@ export default function Footer() {
       <Inner>
         <Paragraph>
           Missing a tutorial?{' '}
-          <Link href="https://github.com/ooloth/gatsby-tutorials#how-do-i-add-a-tutorial">
+          <Link href="https://github.com/iamthenewking/gatsby-tutorials#how-do-i-add-a-tutorial">
             Add it to the directory
           </Link>
           .
         </Paragraph>
 
-        <Paragraph>
-          Want to learn more about GatsbyJS? Check out the{' '}
-          <Link href="https://www.gatsbyjs.org/tutorial/">official tutorial</Link> and{' '}
-          <Link href="https://www.gatsbyjs.org/docs/">docs</Link>.
-        </Paragraph>
+        
 
         <Paragraph>
           Built by{` `}
