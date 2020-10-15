@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Gatsby Tutorials`,
     description: `Gatsby Tutorials is a community-updated list of video, audio and written tutorials to help you learn GatsbyJS. 👩‍💻`,
-    siteUrl: `https://www.gatsbytutorials.com`, // no slash at the end
+    siteUrl: `https://friendly-almeida-fe9116.netlify.app`, // no slash at the end
     language: `en`,
     locale: `en_CA`,
     twitterHandle: ``,
@@ -19,7 +19,7 @@ module.exports = {
     {
       resolve: `gatsby-source-apiserver`,
       options: {
-        url: `https://api.github.com/repos/ooloth/gatsbytutorials.com/contributors`,
+        url: `https://api.github.com/repos/iamyhenewking/gatsbytutorials.com/contributors`,
         name: `contributors`,
         verboseOutput: process.env.NODE_ENV !== `production`,
       },
