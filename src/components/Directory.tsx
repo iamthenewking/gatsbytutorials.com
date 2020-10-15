@@ -107,7 +107,7 @@ export default function Directory({
                   setSource={setSource}
                 />
 
-                <AddTutorial href="https://github.com/ooloth/gatsby-tutorials#how-do-i-add-a-tutorial">
+                <AddTutorial href="https://github.com/iamthenewking/gatsby-tutorials#how-do-i-add-a-tutorial">
                   <span>Add a tutorial</span>
                   <HandsUp
                     emoji="🙌"
